@@ -1,5 +1,6 @@
 # EFI_Hackintosh_XPS7590
 Hackintosh's EFI for Dell XPS 7590 4k OLED
+OC 0.6.9 with GUI
 
 ## SPECIFICATION
 CPU: i7-9750H
